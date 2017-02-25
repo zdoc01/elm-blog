@@ -1,0 +1,22 @@
+{
+  "name": "elm-blog",
+  "version": "1.0.0",
+  "description": "Blog with an elm front-end",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elm",
+    "blog"
+  ],
+  "author": "Zach L.",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-elm": "^0.6.1",
+    "gulp-plumber": "^1.1.0",
+    "gulp-util": "^3.0.8"
+  }
+}

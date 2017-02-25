@@ -1,0 +1,39 @@
+.container {
+    margin: 1em auto;
+    max-width: 600px;
+}
+blockquote {
+    margin: 1em 0;
+}
+.jumbotron {
+    margin: 2em auto;
+    max-width: 400px;
+}
+.jumbotron h2 {
+    margin-top: 0;
+}
+.jumbotron .help-block {
+    font-size: 14px;
+}
+textarea {
+  width: 100%
+}
+
+ul.posts {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.right {
+    float: right;
+}
+
+.post:hover span.delete-post {
+    visibility: visible;
+}
+
+span.delete-post {
+    visibility: hidden;
+    cursor: pointer;
+}
